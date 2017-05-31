@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kenh360.ElasticSearch", "Kenh360.ElasticSearch\Kenh360.ElasticSearch.csproj", "{93EB4A17-1913-4756-83AE-1BC7CEEA5073}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "packages", "packages", "{C3A0EB0D-17B6-46B2-AC48-2C9D46AEEE11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kenh360.Log", "Kenh360.Log\Kenh360.Log.csproj", "{CC41379C-48E8-4EDC-BD10-5B7262ACDCE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kenh360.Log.UnitTest", "Kenh360.Log.UnitTest\Kenh360.Log.UnitTest.csproj", "{12D2FE1F-94DC-49B6-8D3B-435E6483D524}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93EB4A17-1913-4756-83AE-1BC7CEEA5073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93EB4A17-1913-4756-83AE-1BC7CEEA5073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93EB4A17-1913-4756-83AE-1BC7CEEA5073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93EB4A17-1913-4756-83AE-1BC7CEEA5073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC41379C-48E8-4EDC-BD10-5B7262ACDCE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC41379C-48E8-4EDC-BD10-5B7262ACDCE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC41379C-48E8-4EDC-BD10-5B7262ACDCE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC41379C-48E8-4EDC-BD10-5B7262ACDCE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12D2FE1F-94DC-49B6-8D3B-435E6483D524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D2FE1F-94DC-49B6-8D3B-435E6483D524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D2FE1F-94DC-49B6-8D3B-435E6483D524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D2FE1F-94DC-49B6-8D3B-435E6483D524}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
